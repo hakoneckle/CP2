@@ -1,0 +1,7 @@
+- **Course**: Computational Physics 2 at TUM, spring 2023
+- **Type**: Exercises
+- **About**:
+  - Exercise 1: Random Number Generator
+  - Exercise 2: Ising Model and Monte-Carlo Integration
+  - Exercise 4: Non-Linear Systems and Chaos
+  - Exercise 5: Fractals
